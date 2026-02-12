@@ -249,6 +249,17 @@ body {
     color: var(--text-color);
 }
 
+.feature-highlight {
+    font-size: 0.9rem;
+    color: var(--accent-color);
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 0.8rem;
+    background-color: rgba(245, 158, 11, 0.1);
+    border-left: 3px solid var(--accent-color);
+    border-radius: 3px;
+}
+
 .price-btn {
     background-color: var(--primary-color);
     color: var(--white);
